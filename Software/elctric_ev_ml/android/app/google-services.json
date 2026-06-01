@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1039637070427",
+    "firebase_url": "https://tinyml-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tinyml-project",
+    "storage_bucket": "tinyml-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039637070427:android:01f76209e6b22c077b357e",
+        "android_client_info": {
+          "package_name": "com.example.electric_ev_ml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvjK9YurtNLl69l86nVjnbWS5NqrfvmBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
